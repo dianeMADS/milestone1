@@ -9,4 +9,4 @@ Depending on the results, this analysis could act as a spring board for addition
 
 [presentation](https://github.com/dianeMADS/milestone1/blob/main/ESPN-to-NBA%20vFinal-1.pdf)
 
-[codes](https://github.com/dianeMADS/milestone1)
+[codes](https://github.com/dianeMADS/milestone1/blob/main/espn_to_nba_vfinal.ipynb)
